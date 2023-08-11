@@ -1,4 +1,4 @@
-This work was done by PALLA Likhitha under the masters programme.
+
 
 This Github repository contains the files needed for execution:
 * Algorithms:
@@ -12,3 +12,4 @@ This Github repository contains the files needed for execution:
 - Executing Notebooks:
   - T10I4D200K.ipynb
 
+**This work was done by PALLA Likhitha under the masters programme.**
