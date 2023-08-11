@@ -5,8 +5,8 @@ This Github repository contains the files needed for execution:
     * UPFPGrowth
     * UPFPGrowth++
 * Datasets:
-  * "Uncertain_Temporal_T10I4D1200K.csv"
-  * "Uncertain_Tempora_Retail.csv"
+  * "uncertain_Temporal_T10I4D1200K.csv"
+  * "uncertain_Tempora_Retail.csv"
 
 
 - Executing Notebooks:
