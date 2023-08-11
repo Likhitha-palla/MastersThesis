@@ -10,7 +10,7 @@ Periodic-frequent patterns play a crucial role in identifying regularities withi
   * "uncertain_Tempora_Retail.csv"
 
 
-- Executing Notebooks:
+- Executing Notebook Files:
   - T10I4D200K.ipynb
 
-**This work was done by PALLA Likhitha under the masters programme.**
+## This work was done by PALLA Likhitha under the masters programme. ##
